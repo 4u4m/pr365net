@@ -45,7 +45,8 @@
     "google-analytics": "",
     "sitemapSwitcher": "on",
     "uniqCompNum": 15,
-    "versionPublish": "4.8.2"
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {

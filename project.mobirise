@@ -18,7 +18,7 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#b2cacc"
@@ -143,7 +143,8 @@
               "link": "index.html",
               "size": 0,
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#bdc3c7"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PR365.NET</a>",
@@ -239,7 +240,7 @@
             "showSortButtons": false,
             "showBestSellers": false,
             "priceRange": false,
-            "filter": true,
+            "filter": false,
             "showStars": true,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -262,8 +263,8 @@
                 "button": "<a data-app-btn=\"true\" href=\"http://pr365.shop\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/shop4.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shop4.jpg",
-                "starsImg": "@PROJECT_PATH@/assets/images/0.png",
-                "stars": "@PROJECT_PATH@/assets/images/0.png",
+                "starsImg": "@PROJECT_PATH@/assets/images/5.png",
+                "stars": "@ADDON_DIR@_images/shop/5.png",
                 "caption": "Type caption here",
                 "alt": "",
                 "title": "",
@@ -281,12 +282,12 @@
                 "button": "<a data-app-btn=\"true\" href=\"http://pr365.shop\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/shop2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shop2.jpg",
-                "starsImg": "@PROJECT_PATH@/assets/images/2.png",
-                "stars": "@PROJECT_PATH@/assets/images/2.png",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@ADDON_DIR@_images/shop/4.png",
                 "caption": "Type caption here",
                 "alt": "",
                 "title": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
